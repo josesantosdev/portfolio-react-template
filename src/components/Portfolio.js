@@ -20,7 +20,7 @@ export default class Porfolio extends Component {
                         <div className="portfolio-item-meta">
                           <h5>{item.name}</h5>
                           <p>{item.description}</p>
-                          <button><a onClick={ () => window.open(item.repolink, "_self")}>Github Repo</a></button>
+                          <button><a onClick={ () => window.open(item.repolink, "_blank")}>Github Repo</a></button>
                         </div>
                       </div>
                   </div>
