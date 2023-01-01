@@ -18,7 +18,6 @@ export default class Header extends Component {
          </nav>
 
          <div className="row banner">
-            <img className="avatar" src="/images/avatar.png" />
             <div className="banner-text">
                <h1 className="responsive-headline">{resumeData.name}.</h1>
                <h3 style={{color:'#fff', fontFamily:'sans-serif '}}>{resumeData.role}.{resumeData.roleDescription}
