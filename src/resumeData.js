@@ -21,7 +21,7 @@ let resumeData = {
         }
         
       ],
-    "aboutme":"Meu nome é José, tenho 28 anos, estou me graduando em análise e desenvolvimento de sistemas. Meu foco e objetivo de carreia é como desenvolvedor de software/ Engenheiro de Software, onde busco usufruir da minha facilidade para aprender sozinho, e curiosidade para aprender novas tecnologias, arquiteturas e ferramentas. Minhas principais habilidades comportamentais são, a comunicação e inteligencia emocional, adquiridos durante meu percurso profissional, seja no atendimento de clientes internos, ou na execução da venda e experiência ao cliente final.",
+    "aboutme":"Meu nome é José, tenho 28 anos e estou me graduando em análise e desenvolvimento de sistemas. Meu foco e objetivo de carreia é como desenvolvedor de software/ Engenheiro de Software, onde busco usufruir da minha facilidade para aprender sozinho, e curiosidade para aprender novas tecnologias, arquiteturas e ferramentas. Minhas principais habilidades comportamentais são a comunicação e inteligencia emocional, adquiridos durante meu percurso profissional, seja no atendimento de clientes internos ou na execução  da venda e experiência ao cliente final. Meus interesses na área de tecnologias são a inteligência artificial, hacking, desenvolvimento de software e empreendedorismo digital.",
     "address":"Brasil",
     "website":"http://josesantos.dev",
     "education":[
